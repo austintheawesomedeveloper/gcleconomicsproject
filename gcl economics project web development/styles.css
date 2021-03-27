@@ -1,0 +1,18 @@
+
+
+#titl{
+	color: Black;
+	background-color: green;
+	text-align:center-left;
+	font-size:15px 25px;
+	
+}
+.base_text_bold{
+	color:black;
+	font-size:50%;
+}
+.important_image{
+	width:500px;
+	height:500px;
+	float:left;
+}
